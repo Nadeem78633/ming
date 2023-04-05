@@ -6,4 +6,15 @@ npm install
 
 npm start
 
+### Built this app using 
+
+React js
+
+Html
+
+Css
+
+Javascript
+
+
 
